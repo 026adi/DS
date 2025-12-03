@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+joblib
+
+scikit-learn
+sentence-transformers
+
+# Untuk Streamlit app
+streamlit
+
+# Jika kamu butuh untuk model embedding
+torch
+transformers
